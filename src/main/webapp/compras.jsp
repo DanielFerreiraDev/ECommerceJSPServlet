@@ -61,7 +61,7 @@
 		</table>
 		<form>
 			<input type="button" value="Comprar"
-				onClick="alert('Compra realizada com sucesso!'); return true">
+				onClick="alert('Compra realizada com sucesso!'); return true" >
 		</form>
 	</div>
 </body>
